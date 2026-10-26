@@ -1,2 +1,3 @@
 zxc andr privet
-qwe andr poka
+qwe andr poka~
+Новая строка первого разработчика
