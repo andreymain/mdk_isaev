@@ -4,3 +4,4 @@ qwe andr poka~
 qwe andr poka
 ww novi razrab
 Изменения от второго разраба
+Баг исправлен
